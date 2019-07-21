@@ -1,1 +1,2 @@
-this is a em----pty read--me file
+git is a version control system.
+git is free software.
